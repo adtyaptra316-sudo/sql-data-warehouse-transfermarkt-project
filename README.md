@@ -1,0 +1,2 @@
+# sql-data-warehouse-transfermarkt-project
+Building a modern data warehouse with MySQL, including ETL process, data modelling, and analytics
